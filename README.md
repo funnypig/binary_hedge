@@ -7,6 +7,8 @@ The program connects to MetaTrader Expert and waiting for you to open any positi
 Basic demonstration: 
 https://drive.google.com/open?id=1JL34bs0Qb7nTthCav0gNX6F0-WY5dSHZ
 
+Detailed project description is coming soon.
+
 ## Problems:
 - Profit table, Portfolio, Statements windows are not yet implemented
 - Some code defining stylesheets looks weird. Each window defines styles itself - should be generelizedt
